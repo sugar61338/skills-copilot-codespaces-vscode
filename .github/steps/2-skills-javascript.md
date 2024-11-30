@@ -1,4 +1,4 @@
-<!--
+˙<!--
   <<< Author notes: Step 2 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
@@ -54,14 +54,3 @@ Let's try this out utilizing Javascript for Copilot.
    ```
 
 **Wait about 60 seconds then refresh your repository landing page for the next step.**
-{
-  "name": "My Project",
-  "image": "mcr.microsoft.com/vscode/devcontainers/base:0.202.0",
-  "settings": {
-    "terminal.integrated.shell.linux": "/bin/bash"
-  },
-  "extensions": [
-    "github.copilot"
-  ],
-  "postCreateCommand": "npm install"
-}
