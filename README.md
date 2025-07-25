@@ -61,8 +61,6 @@ Before you open up a codespace on a repository, you can create a development con
                "extensions": 
                    "GitHub.copilot"
            }
-       }
-   }
    ```
 1. Select the option to **Commit directly to the `main` branch**, and then click the **Commit new file** button.
 1. Navigate back to the home page of your repository by clicking the **Code** tab located at the top left of the screen.
