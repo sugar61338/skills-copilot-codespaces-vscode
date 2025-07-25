@@ -73,7 +73,7 @@ Before you open up a codespace on a repository, you can create a development con
    **Wait about 2 minutes for the codespace to spin itself up.**
 
 1. Verify your codespace is running. The browser should contain a VS Code web-based editor and a terminal should be present such as the below:
-   `<img>`  Screen Shot 2023-03-09 at 9 09 07 AM 
+   `<img>`  Screen Shot 2023-03-09 at 09:09:07 AM 
 (https://user-images.githubusercontent.com/26442605/224102962-d0222578-3f10-4566-856d-8d59f28fcf2e.png) `</img>` 
 1. The `copilot` extension should show up in the VS Code extension list. Click the extensions sidebar tab. You should see the following:
     `<img>` Screen Shot 2023-03-09 at 09:04:13 AM
