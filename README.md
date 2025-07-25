@@ -3,8 +3,9 @@
 <!--
   <<< Author notes: Course header >>>
   Read <https://skills.github.com/quickstart> for more information about how to build courses using this template.
-  Include a 1280×640 image, course name in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
+  `<img>` Include a 1280×640 image, course name in sentence case, and a concise description in emphasis. 
+`</img>` 
+  `<img>`  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches. `</img>` 
   Next to "About", add description & tags; disable releases, packages, & environments.
   Add your open source license, GitHub uses the MIT license.
 -->
@@ -37,7 +38,7 @@ Additionally, GitHub Copilot is trained on all languages that appear in public r
 Using Copilot inside a Codespace shows just how easy it is to get up and running with GitHub's suite of [Collaborative Coding](https://github.com/features#features-collaboration) tools.
 
 > **Note**
-> This skills exercise will focus on leveraging GitHub Codespace. It is recommended that you complete the GitHub skill, [Codespaces](https://github.com/skills/code-with-codespaces), before moving forward with this exercise.
+> This skills exercise will focus on leveraging GitHub Codespace. It is recommended that you complete the GitHub skill, **Codespaces**(https://github.com/skills/code-with-codespaces), before moving forward with this exercise.
 
 ### :keyboard: Activity: Enable Copilot inside a Codespace
 
@@ -57,9 +58,8 @@ Before you open up a codespace on a repository, you can create a development con
        "name": "Codespace for Skills!",
        "customizations": {
            "vscode": {
-               "extensions": [
+               "extensions": 
                    "GitHub.copilot"
-               ]
            }
        }
    }
@@ -73,9 +73,11 @@ Before you open up a codespace on a repository, you can create a development con
    **Wait about 2 minutes for the codespace to spin itself up.**
 
 1. Verify your codespace is running. The browser should contain a VS Code web-based editor and a terminal should be present such as the below:
-   ![Screen Shot 2023-03-09 at 9 09 07 AM](https://user-images.githubusercontent.com/26442605/224102962-d0222578-3f10-4566-856d-8d59f28fcf2e.png)
+   `<img>`  Screen Shot 2023-03-09 at 9 09 07 AM 
+(https://user-images.githubusercontent.com/26442605/224102962-d0222578-3f10-4566-856d-8d59f28fcf2e.png) `</img>` 
 1. The `copilot` extension should show up in the VS Code extension list. Click the extensions sidebar tab. You should see the following:
-   ![Screen Shot 2023-03-09 at 9 04 13 AM](https://user-images.githubusercontent.com/26442605/224102514-7d6d2f51-f435-401d-a529-7bae3ae3e511.png)
+    `<img>` Screen Shot 2023-03-09 at 9 04 13 AM
+(https://user-images.githubusercontent.com/26442605/224102514-7d6d2f51-f435-401d-a529-7bae3ae3e511.png) `</img>` 
 
 **Wait about 60 seconds then refresh your repository landing page for the next step.**
 
@@ -88,10 +90,10 @@ Before you open up a codespace on a repository, you can create a development con
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/code-with-copilot) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+Get help: Post in our discussion board(https://github.com/orgs/skills/discussions/categories/code-with-copilot) &bull;Review the GitHub status page(https://www.githubstatus.com/)
 
 <p>&copy; 2023 GitHub &bull; 
-<a aherf = Code of Conduct</a>(https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit) >
+<a aherf = Code of Conduct</a>(https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; MIT License(https://gh.io/mit)>
 </p>
 
 ---
