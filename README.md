@@ -35,7 +35,7 @@ GitHub Copilot is an AI pair programmer that helps you write code faster and wit
 
 Additionally, GitHub Copilot is trained on all languages that appear in public repositories. For each language, the quality of suggestions you receive may depend on the volume and diversity of training data for that language.
 
-Using Copilot inside a Codespace shows just how easy it is to get up and running with GitHub's suite of [Collaborative Coding](https://github.com/features#features-collaboration) tools.
+Using Copilot inside a Codespace shows just how easy it is to get up and running with GitHub's suite of Collaborative Coding(https://github.com/features#features-collaboration) tools.
 
 > **Note**
 > This skills exercise will focus on leveraging GitHub Codespace. It is recommended that you complete the GitHub skill, **Codespaces**(https://github.com/skills/code-with-codespaces), before moving forward with this exercise.
